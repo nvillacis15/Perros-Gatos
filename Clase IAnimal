@@ -1,0 +1,4 @@
+package Interfazes;
+public interface IAnimal {
+  public String comunicarse();
+}
